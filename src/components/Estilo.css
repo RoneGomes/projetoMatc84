@@ -1,0 +1,57 @@
+.navHeader{
+    flex: 1;
+    background-color: red;
+    height: 50px;
+    margin-top: 1Opx;
+}
+
+.divFooter{
+    flex: 1;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    
+}
+button{
+    width: 200px;
+    height: 30px;
+    background-color: red;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 10%;
+    border-color: aliceblue;
+}
+.divConntador{
+    flex: 1;
+    height: 220px;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+.btnAdicionar{
+width: 150px;
+background-color: rgb(216, 23, 23);
+margin-bottom: 100px;
+margin-right: 5px;
+}
+.btnZerar{
+    width: 150px;
+    background-color: rgb(216, 23, 23);
+    margin-bottom: 100px;
+    margin-left: 5px;
+    }
+
+.divIMC{
+    flex: 1;
+    height: 520px;
+    margin-top: 40px;
+    padding: 10px;
+
+
+}
+
+.divTarefa{
+    height: 550px;
+}
